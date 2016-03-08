@@ -5,8 +5,8 @@
 ####Ruby version
 Greater than or equal to 1.9.x  
 ####Gem necessary
-*parallel
-*ruby-progressbar
+* parallel
+* ruby-progressbar
 
 #Use
 
